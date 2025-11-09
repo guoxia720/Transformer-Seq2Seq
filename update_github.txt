@@ -1,0 +1,5 @@
+cd D:\pythonProject\transformer\Transformer-Seq2Seq
+git add .
+git commit -m "Auto update"
+git push
+pause
